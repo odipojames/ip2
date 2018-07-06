@@ -3,8 +3,17 @@
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 8px;
-    width: 500px;
-  height: 400px;
+    width: 300px;
+  height: 200px;
+  margin-bottom: -8px
+}
+#fastFood2{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 8px;
+  width: 300px;
+height: 200px;
+margin-top: -8px;
 }
 
 #mg1{
@@ -28,4 +37,21 @@
 }
 #row{
   border-color:#F15a29;
+}
+
+#drink1{border: 1px solid #ddd;
+border-radius: 4px;
+padding: 8px;
+width: 158px;
+height: 400px;
+margin-right: -8px
+
+}
+
+#drink2{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 8px;
+  width: 150px
+  height: 200px;
 }
