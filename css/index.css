@@ -56,14 +56,20 @@ margin-right: -15px
   width: 150px
   height: 200px;
 }
-#page{color: red;
+#grid{color: red;
 
 
 }
 #panel{
-  margin-top: 20px;}
+
+  margin-top: 20px;
+  padding-top: 100px;
+  }
+
   #grid{
     margin-top: 40px;
+
+
   }
 #d1{background: lavender;
   margin-right: -40px;
@@ -83,4 +89,35 @@ margin-right: -15px
 }
 #button{
   border-color:red;
+}
+#border{
+text-align: right;
+}
+
+#panel{
+  height: 50%;
+}
+#grid{
+  padding: 50px;
+}
+#padding{
+  align-content: center;
+  padding: 15px;
+  background-color: gray;
+  border-style:ridge;
+}
+.Fastfood{
+  color: red;
+  align-content: center;
+  padding: 15px;
+  background-color: white;
+  border-style:ridge;
+  margin-left: 95px;
+}
+.white{
+  background-color: white;
+  margin-top: -50px;
+  margin-left: 80px;
+  margin-right: -15px;
+  margin-bottom: 60px;
 }
