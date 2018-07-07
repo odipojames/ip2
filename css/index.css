@@ -111,7 +111,7 @@ text-align: right;
   align-content: center;
   padding: 15px;
   background-color: white;
-  border-style:ridge;
+  border-style:none;
   margin-left: 95px;
 }
 .white{
@@ -120,4 +120,7 @@ text-align: right;
   margin-left: 80px;
   margin-right: -15px;
   margin-bottom: 60px;
+}
+#h2{
+   color: red;
 }
