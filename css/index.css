@@ -124,3 +124,33 @@ text-align: right;
 #h2{
    color: red;
 }
+.class{
+align-items: center;
+}
+.subscribe{
+  align-self: center;
+  float:center;
+  color: white;
+  margin-left: 150px;
+  float: right;
+}
+#subscribe1{
+  height: 100%
+  color:white;
+  align-content: center;
+  padding: 80px;
+}
+#subscribe{
+  background-color: coral;
+  color: white;
+  text-align: center;
+}
+#email{
+  color: white;
+
+}
+.footer{
+  background-color:coral;
+  padding: 80px;
+  text-align: center;
+}
